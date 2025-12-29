@@ -131,6 +131,8 @@ aur_packages=(
     tty-clock
     pyprland
     wlogout
+    # Bluetooth manager
+    bzmenu-bin
 )
 
 dolphin=(
